@@ -29,11 +29,7 @@
     "license": "ISC",
   
     "dependencies": {
-  
-      
-    "cloudinary": "^2.4.0",
-  
-      
+        
     "cloudinary-core": "^2.13.1",
   
       
